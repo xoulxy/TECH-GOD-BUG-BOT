@@ -21,8 +21,8 @@ global.ownername = '⺀𑁍 𝑺 𝚨 𝜝 𝜜 𝜞 𝜤  ▸ᝃ〔🧃〕' //o
 global.botname = 'ī.am/sabari' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.packname = '⺀𑁍 𝑺 𝚨 𝜝 𝜜 𝜞 𝜤  ▸ᝃ〔🧃〕'
+global.author = ''
 
 //console view/theme
 global.themeemoji = '☁️'
