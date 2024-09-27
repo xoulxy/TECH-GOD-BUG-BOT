@@ -2471,14 +2471,11 @@ break
             case 'menu':
             case 'help':
             case 'alive':
-                let xeonmenuoh = `╭══ *❍ 𝗧𝗘𝗖𝗛_𝗚𝗢𝗗-BUG_BOT ❍*
+                let xeonmenuoh = `╭══ *❍ ī.am/Sabari ❍*
 ┃❁ *ᴏᴡɴᴇʀ:* ᴛᴇᴄʜ ○■□● ɢᴏᴅ
 ┃❁ *ᴜᴘᴛɪᴍᴇ:* ${runtime(process.uptime())}
 ┃❁ *User:* ${pushname}
-╰┈➤ ${xeonytimewisher} 😄  My bro
-⚠️⚠️ ~Don't forget to subscribe~ 
-*Tech god* ~Youtube Channel~ ⚠️⚠️
-_Any help: yt link http://www.youtube.com/@techgod143_
+┃❁${xeonytimewisher} 😄  My bro
 ╰═════════════════⊷
 ╭═══❂ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨 ❂
 ┃ ❏ *xʀᴇᴀᴄᴛ <ʀᴇᴘʟʏ ᴄʜᴀᴛ>*
@@ -2563,7 +2560,7 @@ _Any help: yt link http://www.youtube.com/@techgod143_
 ┃ ❏ *ᴍᴇɴᴜ*
 ┃ ❏ *ʜᴇʟᴘ*
 ┃ ❏ *ʟɪsᴛ*
-┃ ❏ *ʙᴜʏᴘʀᴇᴍɪᴜᴍ +917466008456*
+┃ ❏ *ʙᴜʏᴘʀᴇᴍɪᴜᴍ*
 ┃ ❏ *ʀᴜɴᴛɪᴍᴇ*
 ┃ ❏ *sᴄʀɪᴘᴛ*
 ┃ ❏ *ᴅᴏɴᴀᴛᴇ*
